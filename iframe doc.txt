@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>IFRAME</title>
+</head>
+<body>
+
+<iframe height="400PX" width="300PX"
+src="C:\Users\Dheeraj\Desktop\svc.html">
+</iframe>
+<iframe height="300px" width="200px"
+src="C:\Users\Dheeraj\Desktop\svg doc.txt">
+</iframe>
+</body>
+</html>
